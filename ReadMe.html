@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Launcher Setup</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header { color: #38bdf8; font-family: monospace; margin-bottom: 20px; text-align: center; }
+        .wrapper { display: flex; gap: 20px; max-width: 1100px; width: 100%; justify-content: center; }
+        .card { background: #111; padding: 20px; border-radius: 12px; border: 1px solid #333; flex: 1; }
+        h2 { color: #38bdf8; margin-top: 0; font-size: 1.1rem; text-align: center; }
+        ol { padding-left: 20px; font-size: 0.8rem; }
+        li { margin-bottom: 5px; color: #ccc; }
+        code { color: #fbbf24; background: #222; padding: 2px 4px; border-radius: 4px; }
+        
+        .vm-section { 
+            margin-top: 25px; 
+            width: 100%; 
+            max-width: 1100px; 
+            background: #0a0a0a; 
+            padding: 20px; 
+            border-top: 2px solid #fbbf24; 
+            display: flex; 
+            gap: 20px;
+        }
+        .vm-col { flex: 1; font-size: 0.85rem; color: #fbbf24; }
+        .vm-col strong { display: block; margin-bottom: 8px; color: #fff; }
+    </style>
+</head>
+<body>
+
+    <pre class="header">
+        __    ___   __  ___   __________  ____________ 
+       / /   /   | / / / / | / / ____/ / / / ____/ __ \
+      / /   / /| |/ / / /  |/ / /   / /_/ / __/ / /_/ /
+     / /___/ ___ / /_/ / /|  / /___/ __  / /___/ _, _/ 
+    /_____/_/  |_\____/_/ |_/\____/_/ /_/_____/_/ |_|  
+    </pre>
+
+    <div class="wrapper">
+        <div class="card">
+            <h2>English</h2>
+            <ol>
+                <li>Extract to game folder.</li>
+                <li>Rename OpenGL .exe to <code>client_ogl.exe</code>.</li>
+                <li>Run Launcher.</li>
+                <li>Enter key.</li>
+                <li>Launch Multi Client.</li>
+            </ol>
+        </div>
+        <div class="card">
+            <h2>Polski</h2>
+            <ol>
+                <li>Wypakuj do folderu z grą.</li>
+                <li>Zmień nazwę OpenGL .exe na <code>client_ogl.exe</code>.</li>
+                <li>Uruchom Launcher.</li>
+                <li>Wpisz klucz.</li>
+                <li>Uruchom Multi Client.</li>
+            </ol>
+        </div>
+        <div class="card">
+            <h2>Português</h2>
+            <ol>
+                <li>Extraia para a pasta do jogo.</li>
+                <li>Renomeie o OpenGL .exe para <code>client_ogl.exe</code>.</li>
+                <li>Execute o Launcher.</li>
+                <li>Insira a chave.</li>
+                <li>Launch Multi Client.</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="vm-section">
+        <div class="vm-col">
+            <strong>VM Usage:</strong>
+            1. Run Launcher on host PC (must be logged in).<br>
+            2. Run Launcher on VM.<br>
+            *Order is important.*
+        </div>
+        <div class="vm-col">
+            <strong>Użycie na VM:</strong>
+            1. Uruchom Launcher na głównym komputerze (musisz być zalogowany).<br>
+            2. Uruchom Launcher na VM.<br>
+            *Kolejność jest ważna.*
+        </div>
+        <div class="vm-col">
+            <strong>Uso em VM:</strong>
+            1. Execute o Launcher no PC principal (deve estar logado).<br>
+            2. Execute o Launcher na VM.<br>
+            *A ordem é importante.*
+        </div>
+    </div>
+
+</body>
+</html>
