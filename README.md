@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🔍 VirusTotal Scans
-# Launcher-main.zip - https://www.virustotal.com/gui/file/9dd42b271f7544dd43b819eed3b38c5b8b4418b2dbedb31a5f1abdba1b81e2e8
-# Launcher.exe - https://www.virustotal.com/gui/file/2052ec0934ed87998eb282197d682380f502d14ea7da20e43c6ff09e5f3088f0
-# Watchdog.exe - https://www.virustotal.com/gui/file/8678686ae00e53d10a6b678310dc6ec1eed5c1c6161e281f505c1378e479cb4d
+ 🔍 VirusTotal Scans
+ Launcher-main.zip - https://www.virustotal.com/gui/file/9dd42b271f7544dd43b819eed3b38c5b8b4418b2dbedb31a5f1abdba1b81e2e8
+ Launcher.exe - https://www.virustotal.com/gui/file/2052ec0934ed87998eb282197d682380f502d14ea7da20e43c6ff09e5f3088f0
+ Watchdog.exe - https://www.virustotal.com/gui/file/8678686ae00e53d10a6b678310dc6ec1eed5c1c6161e281f505c1378e479cb4d
 
-# False Positive
-# Look at "BEHAVIOR" tab
-# This launcher only works like:
-# Enter key > download the client data > apply changes to client > done
+ False Positive
+ Look at "BEHAVIOR" tab
+ This launcher only works like:
+ Enter key > download the client data > apply changes to client > done
 </div>
 
 
