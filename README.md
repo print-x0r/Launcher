@@ -1,12 +1,12 @@
 <div align="center">
 
  🔍 VirusTotal Scans<br>
- Launcher-main.zip - https://www.virustotal.com/gui/file/dda55cb86213b51fde589dffe40a04c154153135a96cad02cf80c9ca37ea09d7<br>
- Launcher.exe - https://www.virustotal.com/gui/file/82751a3ba29db269910712f4f587eab29f7638f6d990179e17e260a7eac68536<br>
- Watchdog.exe - https://www.virustotal.com/gui/file/730ec6b3e2d1df9ded6fe9450036a9fcd82ff381b0398ec0050d16ac3feeb92c<br>
- hwid.exe - https://www.virustotal.com/gui/file/a9fcf0b8f60aebd8fe9794b383f6821d228d4453eec916621624d18c0cf14627<br>
+ Launcher-main.zip - https://www.virustotal.com/gui/file/7ad7cb0b93afc67349605c0066491da6fd2e4dd63aa34732cce05ea22563733e<br>
+ LNCHRv2.exe - https://www.virustotal.com/gui/file/d0cf96b983fb1719d0a859512f2869a176145fb3f6bda9a2ad3b4e22435b6b11<br>
+ Watchdog.exe - https://www.virustotal.com/gui/file/6ce4f1253f81f8cd092fb8aabeb7a4a5878d719f93e87797fed68e57d33ff3fc<br>
+ hwid.exe - https://www.virustotal.com/gui/file/24df184596d81e4691d438e7b14c2dd2532a6cad48dc06ceda7322d45b54c5fb<br>
  changer32.dll - https://www.virustotal.com/gui/file/ec5bffdae2589893678c700b33fa231a14cb4f9ae7449befa6a016bb9eefd393<br>
- changer.dll - https://www.virustotal.com/gui/file/75445543183a9169fdeab04b3c735f4353814bb65abbae5f7b049e2b4a4d719e<br>
+ changer.dll - https://www.virustotal.com/gui/file/4a4365b75ac8e00ddcff55e24aaca4d85744d9824c32a518d3d3b5b7b6b1b1e4<br>
 <br>
  False Positive<br>
  Look at "BEHAVIOR" tab<br>
